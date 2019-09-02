@@ -7,7 +7,7 @@
   box-sizing: border-box;
 }
 a{
-  list-style: none;
+  text-decoration: : none;
 }
 body {
 	background: #F3EBE9;
@@ -35,7 +35,7 @@ body {
   border: solid rgb(152,173,166) ;
   margin-top:-25px ;
 }
-h1{
+h1 a{
   font-size: 80px;
   color: rgb(152,173,166)
 }
