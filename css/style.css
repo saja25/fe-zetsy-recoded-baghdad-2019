@@ -16,7 +16,7 @@ body {
 	font-family: 'Times New Roman', serif; 
 	color: rgb(111,127,122) ;
 	overflow: auto;
-	margin-top: -100px;
+
 }
 
 .wrapper {
@@ -34,7 +34,7 @@ body {
 }
 .necklace-image{
   border: solid rgb(152,173,166) ;
-  margin-top:-25px ;
+  
 }
 h1 a{
   font-size: 80px;
