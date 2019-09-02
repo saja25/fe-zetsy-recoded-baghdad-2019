@@ -24,4 +24,5 @@ body {
 /* Write all remaining styles here */
 .rights{
   float: right;
+  overflow: auto;
 }
