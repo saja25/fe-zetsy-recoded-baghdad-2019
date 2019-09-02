@@ -31,6 +31,7 @@ body {
 .rights{
   float: right;
   margin:-5px;
+  font-size: 20px;
 }
 .necklace-image{
   border: solid rgb(152,173,166) ;
