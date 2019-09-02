@@ -6,6 +6,9 @@
 *{
   box-sizing: border-box;
 }
+a{
+  list-style: none;
+}
 body {
 	background: #F3EBE9;
 	font-size: 100%;
