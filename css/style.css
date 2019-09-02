@@ -25,5 +25,5 @@ body {
 /* Write all remaining styles here */
 .rights{
   float: right;
-  
+  margin:-5px;
 }
