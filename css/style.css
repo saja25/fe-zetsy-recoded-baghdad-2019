@@ -12,6 +12,7 @@ body {
 	font-family: 'Times New Roman', serif; 
 	color: rgb(111,127,122) ;
 	overflow: auto;
+	margin-top: 0;
 }
 
 .wrapper {
