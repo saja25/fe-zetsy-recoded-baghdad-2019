@@ -3,11 +3,14 @@
 /* link the web font used for the level 1 heading here */
 
 /*////////// Global Styles //////////*/
-
+*{
+  box-sizing: border-box;
+}
 body {
 	background: #F3EBE9;
 	font-size: 100%;
 	font-family: 'Times New Roman', serif; 
+	color
 }
 
 .wrapper {
@@ -15,9 +18,7 @@ body {
 	margin: 0 auto;
 	background: #fff;
 	padding: 0 45px 20px;
+	
 }
 
 /* Write all remaining styles here */
-h1{
-  
-}
