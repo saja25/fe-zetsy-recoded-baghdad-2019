@@ -11,6 +11,7 @@ body {
 	font-size: 100%;
 	font-family: 'Times New Roman', serif; 
 	color: rgb(152,173,166) ;
+	overflow: auto;
 }
 
 .wrapper {
@@ -24,5 +25,5 @@ body {
 /* Write all remaining styles here */
 .rights{
   float: right;
-  overflow: auto;
+  
 }
